@@ -1,5 +1,3 @@
-# postgres-pivots
+Minimal postgres pivot table implementation
 
-# Minimal postgres pivot table implementation
-
-# Just copy the code in pgadmin and run it. It should work.
+Just copy the code in pgadmin and run it. It should work.
